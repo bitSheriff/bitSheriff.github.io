@@ -1,0 +1,157 @@
+#-------------------------------
+# Site Settings
+title: bitSheriff
+logo: /images/logo-round.png # You can add own logo. For example '/images/logo.png'.
+description: Hilton is a super simple portfolio theme for Jekyll.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'The Saloon'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Pages'
+      submenu:
+      - url: '/about/'
+        title: 'About'
+      - url: '/contact/'
+        title: 'Contact'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: bitSheriff
+  author__bio: This GitHub is just a hobbiest place to show what I am working on and give some updates to projects. I would be happy if you follow me on Twitter or even buy me a cup of coffee
+  author__avatar: '/images/logo.png'
+
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/bitSheriff"}
+- {icon: "ion-logo-usd", link: "https://ko-fi.com/bitsheriff"}
+- {icon: "ion-logo-github", link: "https://github.com/bitSheriff"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: I'm bitSheriff, a bughunter in the wild wild west
+  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__image: '/images/logo.png'
+
+
+#-------------------------------
+# Newsletter
+mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Your email address...
+mailchimp__button__text: Get updates
+
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+  projects__title: Latest projects
+  projects__description: Some projects to show what I am working on
+
+
+#-------------------------------
+Testimonials Section:
+#testimonial__title: What clients say
+#testimonial__description:
+
+#testimonial__items:
+#  - name: "Aspen Carder"
+#    image: "/images/client-1.jpg"
+#    designation: "Lettering Artist"
+#    link: "https://twitter.com/"
+#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+#
+#  - name: "Lydia Siphron"
+#    image: "/images/client-2.jpg"
+#    designation: "Designer"
+#    link: "https://facebook.com/"
+#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#
+#  - name: "Craig Vaccaro"
+#    image: "/images/client-3.jpg"
+#    designation: "Web developer"
+#    link: "https://twitter.com/"
+#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#
+#  - name: "Anika Calzoni"
+#    image: "/images/client-4.jpg"
+#    designation: "Lettering Artist"
+#    link: "https://facebook.com/"
+#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#
+#  - name: "Marcus Botosh"
+#    image: "/images/client-5.jpg"
+#    designation: "Full Stack Designer"
+#    link: "https://twitter.com/"
+#    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Recent Posts
+  blog__description:
+
+
+#-------------------------------
+# Gallery Footer Settings
+#gallery:
+#  gallery__images:
+#    - alt: 'Rest'
+#      url: '/images/gallery-1.jpg'
+#    - alt: 'Lifestyle'
+#      url: '/images/gallery-2.jpg'
+#    - alt: 'Hobby'
+#      url: '/images/gallery-3.jpg'
+#    - alt: 'Notes'
+#      url: '/images/gallery-4.jpg'
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    - url: '/about/'
+      title: 'About'
+    - url: '/contact/'
+      title: 'Contact'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: bitSheriff@protonmail.com # Add your form_id
+  description: H
+
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submis
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id

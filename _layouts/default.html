@@ -1,25 +1,26 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="intro-header"></div>
+{% include head.html %}
 
-<div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  {% if page.before-content %}
-    <div class="before-content">
-      {% for file in page.before-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
+<body>
+
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
   {% endif %}
 
-  {{ content }}
+  {% include header.html %}
 
-  {% if page.after-content %}
-    <div class="after-content">
-      {% for file in page.after-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
-  {% endif %}
-</div>
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main>
+  <!-- end content -->
+
+  {% include footer.html %}
+
+  <script src="{{ site.baseurl }}/js/scripts.js"></script>
+  <script src="{{ site.baseurl }}/js/common.js"></script>
+</body>
+
+</html>
