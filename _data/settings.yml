@@ -2,7 +2,7 @@
 # Site Settings
 title: bitSheriff
 logo: /images/logo-round.png # You can add own logo. For example '/images/logo.png'.
-description: Hilton is a super simple portfolio theme for Jekyll.
+description: The Saloon the in the wild wild web
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -28,7 +28,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: bitSheriff
-  author__bio: This GitHub is just a hobbiest place to show what I am working on and give some updates to projects. I would be happy if you follow me on Twitter or even buy me a cup of coffee
+  author__bio: This GitHub is just a hobbyist place to show what I am working on and give some updates to projects. I would be happy if you follow me on Twitter or even buy me a cup of coffee
   author__avatar: '/images/logo.png'
 
 social:
@@ -44,7 +44,7 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm bitSheriff, a bughunter in the wild wild west
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__description: So if you want to help me on my projects or are looking for a cooperation, hit me up
   hero__image: '/images/logo.png'
 
 
@@ -140,9 +140,9 @@ footer_menu__settings:
 
 #-------------------------------
 # Contact Settings
-contact:
-  email: bitSheriff@protonmail.com # Add your form_id
-  description: H
+#contact:
+#  email: bitSheriff@protonmail.com # Add your form_id
+#  description: If you want to send me an email --> report it to the sheriff
 
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submis
 
