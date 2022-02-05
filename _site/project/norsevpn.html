@@ -16,16 +16,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="NorseVPN – bitSheriff">
   <meta name="twitter:description" content="NorseVPN
-Intro
-This
 ">
   <meta name="twitter:image:src" content="http://localhost:4000/images/NorseVPN_white.png">
 
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="NorseVPN – bitSheriff">
   <meta property="og:description" content="NorseVPN
-Intro
-This
 ">
   <meta property="og:image" content="http://localhost:4000/images/NorseVPN_white.png">
 
@@ -161,8 +157,30 @@ This
 
   <div class="project-content animate">
     <h1 id="norsevpn">NorseVPN</h1>
+
+<p><img src="https://github.com/bitSheriff/norsevpn/blob/main/doc/img/logo/NorseVPN_white.png?raw=true" width="300" height="300" /></p>
+
+<p><a href="https://github.com/bitSheriff/norsevpn">Repository</a></p>
+
 <h2 id="intro">Intro</h2>
-<p>This</p>
+<p>Before every (good) project, there is a problem which requires a solution.
+In this case the <em>problem</em> is that <a href="www.nordvpn.com">nordVPN</a> has no gui client for linux. There is only a cli application which can be a bit complicated to
+handle and if you use a VPN on a daily basis it gets very unhandy. So the only solution was to build a small tool for that. So time after time more and more features
+were supported and even some which the cli application does not include.</p>
+
+<h2 id="the-official-cli">The official CLI</h2>
+<p><a href="https://nordvpn.com/de/download/linux/">The NordVPN application</a> for linux only supports a cli version.</p>
+
+<p>A connection can be established by choosing a country and a city.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nv">$ </span>nordvpn c Austria Vienna
+</code></pre></div></div>
+<p>Which countries and cities are available? Well this is not easily displayed.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nv">$ </span>nordvpn cities <span class="o">[</span>country]
+</code></pre></div></div>
+
+<h2 id="my-gui">My GUI</h2>
+<p><em>To be clear NorseVPN is only a wrapper. So it does not communicate with the NordVPN servers.</em></p>
 
   </div>
 
