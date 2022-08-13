@@ -2,7 +2,7 @@
 layout: post
 title:  A new Start
 description: Fresh new blog
-date:   2022-02-03 13:00:35 +0
+date:   2022-02-03 13:00:35 +0200
 image: '/images/devlog_logo.png'
 tags:   [blog, devlog]
 ---
