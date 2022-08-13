@@ -2,7 +2,7 @@
 layout: post
 title:  Getting into neovim
 description: New way to write code
-date:   2022-08-13 12:44:35 +0
+date:   2022-08-13 12:44:35 +0200
 image: '/images/devlog_logo.png'
 tags:   [blog, devlog, neovim]
 ---
