@@ -43,7 +43,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm bitSheriff, a bughunter in the wild wild west
+  hero__title: I'm bitSheriff, a bug hunter in the wild wild web
   hero__description: So if you want to help me on my projects or are looking for a cooperation, hit me up
   hero__image: '/images/logo.png'
 
