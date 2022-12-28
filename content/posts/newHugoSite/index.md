@@ -35,9 +35,3 @@ You probably recognized that something is _different_ with the background image 
 ## What's next?
 
 To be honest, I don't know. I tried blogging a few times back then, but know I hope I stick with it and start _learning in public_.
-
-$$
-\mathbb{E}[\text{Number of posts}] = \infty
-$$
-
-\\(a \ne b\\)
