@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "bitSheriff"
+#logo = "img/logo_noName.png"
+description = "My awesome website"
+#copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "bitSheriff"
+  image = "img/logo_noName.png"
+  headline = "Welcome to the Saloon"
+  bio = "Bughunter in the Wild Wild Web"
+   links = [
+     { link = "https://bitSheriff.github.io/" },
+     { github = "https://github.com/bitSheriff/" },
+     { twitter = "https://twitter.com/bitSheriff" }
+   ]
