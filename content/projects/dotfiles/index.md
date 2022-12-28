@@ -12,3 +12,10 @@ _build:
 ---
 
 [Repository](https://github.com/bitSheriff/dotfiles)
+
+## nvim
+
+_neovim_
+
+
+
