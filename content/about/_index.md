@@ -1,5 +1,7 @@
 ---
 title: "About Some Stuff"
+showSummary: true
+showReadingTime: false
 cascade:
   showDate: false
   showEdit: false
