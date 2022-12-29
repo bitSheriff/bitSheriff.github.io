@@ -2,7 +2,7 @@
 title: "New Hugo Site"
 summary: "New blog engine"
 categories: ["Blog", "DevLog"]
-tags: ["hugo", "blogging"]
+tags: ["hugo", "blogging", "chatgpt", "github copilot"]
 #externalUrl: ""
 #showSummary: true
 date: 2022-12-28
