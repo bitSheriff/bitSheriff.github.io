@@ -7,6 +7,8 @@ tags: ["devlog", "post"]
 #showSummary: true
 date: 2022-12-28
 draft: false
+series: ["My Hugo Blog"]
+series_order: 1
 ---
 
 ## What is Hugo?
@@ -16,6 +18,8 @@ Hugo is a static site generator written in Go. It is fast, easy to use and has a
 ## Why switching to Hugo?
 
 Well this is a good question. I used since the beginning of this blog the static site generator [jekyll](https://jekyllrb.com/) in combination with _github pages_. This setup was not bad at all, but I wanted to step up a bit and use more modern and more powerful tool. So my choice fell on [Hugo](https://gohugo.io/).
+
+I want to thank [Nuno Coração](https://github.com/nunocoracao) for the great [Blowfish Theme](https://nunocoracao.github.io/blowfish/) I am using. It looks wonderful, is open source, has a lot of features and is furthermore customizable **but** at the same moment very easy to use.
 
 ## New Era of Blogging
 
