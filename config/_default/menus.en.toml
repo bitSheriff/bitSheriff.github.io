@@ -47,3 +47,8 @@
    name = "Tags"
    pageRef = "tags"
    weight = 10
+
+ [[footer]]
+   name = "Categories"
+   pageRef = "categories"
+   weight = 20

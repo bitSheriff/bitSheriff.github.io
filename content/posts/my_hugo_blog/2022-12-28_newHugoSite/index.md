@@ -1,8 +1,8 @@
 ---
 title: "New Hugo Site"
 summary: "New blog engine"
-categories: ["Post", "Blog"]
-tags: ["devlog", "post"]
+categories: ["Blog", "DevLog"]
+tags: ["hugo", "blogging"]
 #externalUrl: ""
 #showSummary: true
 date: 2022-12-28
@@ -35,6 +35,11 @@ I think these new systems are not only scary, but also very promising to enhance
 ### DALL E
 
 You probably recognized that something is _different_ with the background image of these (and the other) posts. I used the [DALL E](https://openai.com/blog/dall-e/) model to generate these images. I am very bad at designing such images, but I think a blog need some kind of visual attraction.
+
+### Stable Diffusion
+
+What's better than paying for a AI images which get's uploaded to unknown servers? **Hosting your own**. An that's possible through the open source project [Stable Diffusion](https://github.com/CompVis/stable-diffusion). But _stable diffusion_ is just something like a backend service, for more convenience there are projects like [InvokeAI](https://github.com/invoke-ai/InvokeAI) which provides a nice web interface to generate images.
+But for now I am more than happy with [DALL E](https://openai.com/blog/dall-e/), which does not mean that I will not try out a self hosted solution in the future.
 
 ## What's next?
 
