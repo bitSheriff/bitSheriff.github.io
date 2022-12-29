@@ -28,3 +28,7 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[author]
+  name = "bitSheriff"
+  email = "bitSheriff@protonmail.com"

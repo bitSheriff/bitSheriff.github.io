@@ -19,6 +19,8 @@ Hugo is a static site generator written in Go. It is fast, easy to use and has a
 
 Well this is a good question. I used since the beginning of this blog the static site generator [jekyll](https://jekyllrb.com/) in combination with _github pages_. This setup was not bad at all, but I wanted to step up a bit and use more modern and more powerful tool. So my choice fell on [Hugo](https://gohugo.io/).
 
+One _must have_ was the markdown ability to write posts, since I am writing my whole digital life in markdown (posts to Obsidian are in the pipeline). Furthermore I love the idea that the whole blog is just a bunch of markdown files which can be edited with any text editor, on any computer and with the worst internet connection possible.
+
 I want to thank [Nuno Coração](https://github.com/nunocoracao) for the great [Blowfish Theme](https://nunocoracao.github.io/blowfish/) I am using. It looks wonderful, is open source, has a lot of features and is furthermore customizable **but** at the same moment very easy to use.
 
 ## New Era of Blogging
