@@ -18,7 +18,8 @@ dateFormat = "2 January 2006"
   headline = "Welcome to the Saloon"
   bio = "Bughunter in the Wild Wild Web"
    links = [
-     { link = "https://bitSheriff.github.io/" },
      { github = "https://github.com/bitSheriff/" },
-     { twitter = "https://twitter.com/bitSheriff" }
+     { twitter = "https://twitter.com/bitSheriff" },
+     { dev = "https://dev.to/bitSheriff" },
+     { link = "https://linktr.ee/bitsheriff" }
    ]
