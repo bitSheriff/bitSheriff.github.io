@@ -9,6 +9,11 @@ serve:
 
 # Deploy the blog to Git
 deploy:
-    git add -A
-    git commit -m "$(gum input)"
-    git push
+    # Adding all files to git
+    @git add -A
+     
+    # Committing
+    @git commit -m "$(gum input --placeholder 'Commit Message')"
+     
+    # Pushing to the Deployment Server
+    @git push
