@@ -1,4 +1,5 @@
-
+set shell := ["bash", "-uc"]
+ 
 # List all recipes
 default:
     just --choose
