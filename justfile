@@ -18,3 +18,7 @@ deploy:
      
     # Pushing to the Deployment Server
     @git push
+
+# Create a new post
+new-post:
+    @hugo new  content content/posts/$(gum input --placeholder 'Post Name').md
