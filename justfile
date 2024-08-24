@@ -1,8 +1,7 @@
 set shell := ["bash", "-uc"]
  
-# List all recipes
-default:
-    just --choose
+# Per Default start the local instance
+default: serve
 
 # Start the server, build drafts too
 serve:
