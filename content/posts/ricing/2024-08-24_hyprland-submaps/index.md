@@ -100,7 +100,7 @@ The ideas and possibilities are endless as so often in the ricing world.
 - [neovim](https://neovim.io/)
 
 <script src="https://utteranc.es/client.js"
-        repo=" bitSheriff/bitSheriff.github.io "
+        repo=" bitSheriff/bitSheriff.github.io"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
