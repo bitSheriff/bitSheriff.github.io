@@ -99,10 +99,10 @@ The ideas and possibilities are endless as so often in the ricing world.
 - [Waybar](https://github.com/Alexays/Waybar)
 - [neovim](https://neovim.io/)
 
-```
-
-```
-
-```
-
-```
+<script src="https://utteranc.es/client.js"
+        repo=" bitSheriff/bitSheriff.github.io "
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
