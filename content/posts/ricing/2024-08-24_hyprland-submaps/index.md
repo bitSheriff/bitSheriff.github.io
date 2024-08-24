@@ -91,7 +91,8 @@ The ideas and possibilities are endless as so often in the ricing world.
 
 ## Links & References
 
-- [My Dotfiles](https://github.com/bitSheriff/dotfiles)
+{{< github repo="bitSheriff/dotfiles" >}}
+
 - [Hyprland](https://hyprland.org/)
   - [Hyprland Submaps](https://wiki.hyprland.org/Configuring/Binds/#submapshttps://hyprland.org/docs/submaps)
 - [Wayland](https://wayland.freedesktop.org/)
