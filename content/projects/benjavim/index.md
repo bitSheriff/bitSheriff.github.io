@@ -6,6 +6,7 @@ summary: "My Neovim Configuration"
 showReadingTime: true
 showLikes: false
 showViews: false
+categories: ["Project"]
 tags: ["linux", "neovim"]
 draft: true
 ---

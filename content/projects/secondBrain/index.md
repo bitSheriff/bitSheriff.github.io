@@ -6,6 +6,7 @@ summary: "My digital second brain"
 showReadingTime: true
 showLikes: false
 showViews: false
+categories: ["Project"]
 draft: true
 ---
 

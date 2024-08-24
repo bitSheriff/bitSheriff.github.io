@@ -6,6 +6,7 @@ summary: "Convert marlin laser gcode to Anycubic Mega Pro format"
 showReadingTime: true
 showLikes: false
 showViews: false
+categories: ["Project"]
 _build:
   render: "false"
   list: "local"

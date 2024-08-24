@@ -6,6 +6,7 @@ summary: "A nordVPN GUI client for linux"
 showReadingTime: true
 showLikes: false
 showViews: false
+categories: ["Project"]
 _build:
   render: "false"
   list: "local"

@@ -6,6 +6,7 @@ summary: "My linux configuration files"
 showReadingTime: true
 showLikes: false
 showViews: false
+categories: ["Project"]
 tags: ["linux", "neovim"]
 draft: false
 ---
