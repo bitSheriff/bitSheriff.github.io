@@ -6,15 +6,13 @@ weight = 1
 rtl = false
 
 title = "bitSheriff"
-#logo = "img/logo_noName.png"
 description = "My awesome website"
-#copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "bitSheriff"
-  image = "img/logo_noName.png"
+  image = "img/logo_name.png"
   headline = "Welcome to the Saloon"
   bio = "Bughunter in the Wild Wild Web"
    links = [
