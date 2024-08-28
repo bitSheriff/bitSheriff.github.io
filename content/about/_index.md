@@ -1,5 +1,5 @@
 ---
-title: "About Some Stuff"
+title: "About ..."
 showSummary: true
 showReadingTime: false
 cascade:
