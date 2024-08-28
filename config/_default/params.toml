@@ -19,7 +19,7 @@ mainSections = ["posts"]
   layout = "fixed" # valid options: basic, fixed
 
 [footer]
- # showMenu = true
+  # showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -47,7 +47,6 @@ mainSections = ["posts"]
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true

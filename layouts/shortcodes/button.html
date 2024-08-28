@@ -1,14 +1,8 @@
-{{ $_hugo_config := `{ "version": 1 }` }}
-<a {{ with .Get "href"}} href="{{.}}" target="_blank" {{ end }} class="btn btn-default">
-  {{ $icon := .Get "icon" }}
-  {{ $iconposition := .Get "icon-position" }}
-  {{ if ($icon) }}
-    {{ if or (not ($iconposition)) (eq $iconposition "left") }}
-  <i class="{{$icon}}"></i>
-    {{ end }}
-  {{ end }}
+<a
+  class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+  {{ with .Get "href" }}href="{{ . }}"{{ end }}
+  {{ with .Get "target" }}target="{{ . }}"{{ end }}
+  role="button"
+>
   {{ .Inner }}
-  {{ if and ($icon) (eq $iconposition "right")}}
-  <i class="{{$icon}}"></i>
-  {{ end }}
 </a>
