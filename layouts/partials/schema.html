@@ -1,5 +1,5 @@
 {{ if .IsHome -}}
-  <script type="application/ld+json">
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -11,13 +11,12 @@
     {{ with .Site.Params.keywords }}"keywords": {{ . }},{{ end }}
     "publisher" : {
       "@type": "Person",
-      "name": "{{ .Site.Author.name | safeJS }}"
+      "name": "{{ .Site.Params.Author.name | safeJS }}"
     }
   }
-  </script>
-{{ else if .IsPage }}
-  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-  <script type="application/ld+json">
+</script>
+{{ else if .IsPage }} {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+<script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
@@ -30,7 +29,7 @@
     "url" : "{{ .Permalink }}",
     "author" : {
       "@type": "Person",
-      "name": "{{ .Site.Author.name | safeJS }}"
+      "name": "{{ .Site.Params.Author.name | safeJS }}"
     },
     {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
     {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
@@ -45,5 +44,5 @@
     "mainEntityOfPage": "true",
     "wordCount": "{{ .WordCount }}"
   }]
-  </script>
+</script>
 {{ end }}
