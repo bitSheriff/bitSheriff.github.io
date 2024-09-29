@@ -11,7 +11,8 @@ title = "bitSheriff"
   bio = "Bughunter in the Wild Wild Web"
    links = [
      { github = "https://github.com/bitSheriff/" },
-     { twitter = "https://twitter.com/bitSheriff" },
+     { mastodon = "https://mastodon.social/@bitSheriff" },
+     { matrix = "https://matrix.to/#/@bitSheriff:matrix.org" },
      { dev = "https://dev.to/bitSheriff" },
      { link = "https://linktr.ee/bitsheriff" }
    ]
