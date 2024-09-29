@@ -3,16 +3,3 @@ languageName = "English"
 weight = 1
 
 title = "bitSheriff"
-
-[params.author]
-  name = "bitSheriff"
-  image = "img/logo_name.png"
-  headline = "Welcome to the Saloon"
-  bio = "Bughunter in the Wild Wild Web"
-   links = [
-     { github = "https://github.com/bitSheriff/" },
-     { mastodon = "https://mastodon.social/@bitSheriff" },
-     { matrix = "https://matrix.to/#/@bitSheriff:matrix.org" },
-     { dev = "https://dev.to/bitSheriff" },
-     { link = "https://linktr.ee/bitsheriff" }
-   ]
