@@ -108,5 +108,5 @@ mainSections = ["posts"]
      { mastodon = "https://mastodon.social/@bitSheriff" },
      { envelope = "https://matrix.to/#/@bitSheriff:matrix.org" },
      { dev = "https://dev.to/bitSheriff" },
-     { link = "https://linktr.ee/bitsheriff" }
+     #{ link = "https://linktr.ee/bitsheriff" }
    ]
