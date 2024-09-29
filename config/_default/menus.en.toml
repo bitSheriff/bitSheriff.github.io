@@ -32,9 +32,9 @@
   weight = 50
 
 [[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/bitSheriff"
+  identifier = "mastodon"
+  pre = "mastodon"
+  url = "https://mastodon.social/@bitSheriff"
   weight = 60
 
 
