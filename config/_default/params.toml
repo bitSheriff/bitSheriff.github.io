@@ -106,7 +106,7 @@ mainSections = ["posts"]
   links = [
      { github = "https://github.com/bitSheriff/" },
      { mastodon = "https://mastodon.social/@bitSheriff" },
-     { matrix = "https://matrix.to/#/@bitSheriff:matrix.org" },
+     { envelope = "https://matrix.to/#/@bitSheriff:matrix.org" },
      { dev = "https://dev.to/bitSheriff" },
      { link = "https://linktr.ee/bitsheriff" }
    ]
