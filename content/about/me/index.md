@@ -115,9 +115,9 @@ _build:
             <img src="https://element.io/images/logo-mark-primary.svg" alt="Matrix/Element Logo">
             <a href="https://matrix.to/#/@bitSheriff:matrix.org" target="_blank">Matrix/Element</a>
         </li>
-        <li class="link-item">
-            <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to Logo">
-            <a href="https://dev.to/bitSheriff" target="_blank">Dev.to</a>
-        </li>
+        <!-- <li class="link-item"> -->
+        <!--     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to Logo"> -->
+        <!--     <a href="https://dev.to/bitSheriff" target="_blank">Dev.to</a> -->
+        <!-- </li> -->
     </ul>
 </div>
