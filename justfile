@@ -20,4 +20,4 @@ deploy:
 
 # Create a new post
 new-post:
-    @hugo new  content content/posts/$(gum input --placeholder 'Post Name').md
+    @hugo new  content content/posts/$(date +"%Y-%m-%d")_$(gum input --placeholder 'Post Name').md
