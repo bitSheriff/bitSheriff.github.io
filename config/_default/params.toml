@@ -103,10 +103,10 @@ mainSections = ["posts"]
   image = "img/logo_name.png"
   headline = "Welcome to the Saloon"
   bio = "Bughunter in the Wild Wild Web"
+  email = "mailto:root@bitsheriff.dev"
   links = [
      { github = "https://github.com/bitSheriff/" },
      { mastodon = "https://mastodon.social/@bitSheriff" },
-     { envelope = "https://matrix.to/#/@bitSheriff:matrix.org" },
-     { dev = "https://dev.to/bitSheriff" },
-     #{ link = "https://linktr.ee/bitsheriff" }
+     { comment = "https://matrix.to/#/@bitSheriff:matrix.org" },
+     { envelope = "mailto:root@bitsheriff.dev"}
    ]
