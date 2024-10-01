@@ -18,6 +18,13 @@ deploy:
     # Pushing to the Deployment Server
     @git push
 
-# Create a new post
-new-post:
-    @hugo new  content content/posts/$(date +"%Y-%m-%d")_$(gum input --placeholder 'Post Name').md
+# Create a new simple post
+simple-post:
+    #!/bin/bash
+    post_path=content/posts/$(date +"%Y-%m-%d")_$(gum input --placeholder 'Post Name')
+    # replace whitespaces with dash
+    post_path==$(echo "$post_path" | tr ' ' '-')
+    # create the folder
+    mkdir -p "$post_path"
+    # create the blog entry from a hugo remplate
+    hugo new  "$post_path/index.md"
