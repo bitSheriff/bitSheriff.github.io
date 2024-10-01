@@ -8,6 +8,6 @@ tags: []
 featureimage: "" # add external links as feature image
 showAuthor: true
 showTableOfContents: true
-series: ""
+series: ["Name of the Series"]
 series_order: 0
 ---

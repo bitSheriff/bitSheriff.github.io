@@ -5,6 +5,8 @@ date: 2024-08-24T11:41:15+02:00
 draft: false
 categories: ["Blog"]
 tags: ["ricing", "wayland"]
+series: ["Ricing"]
+series_order: 1
 ---
 
 ## What are Submaps?
