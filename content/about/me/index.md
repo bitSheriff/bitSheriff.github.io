@@ -15,6 +15,11 @@ _build:
 
 ## That's me
 
+### Proof that I am Me
+
+The world wide web is a dangerous place where everyone can be anonyms but also pretend to be someone else. So here is a little proof that I am me.
+You can import this public key (or download it from down below) and verify my signed messages and more.
+
 {{< details title="GnuPG Public Key" >}}
 
 ```
@@ -63,7 +68,10 @@ Z/erpVJ5Pc2ZRpURzGE5
 
 {{< /details >}}
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O37DTN6)
+### More Links
+
+Of course I am not only on this blog. I am also on other platforms. Here are some links to my profiles on other platforms:
 
 <!--  include my link collection from sperate file  -->
+
 {{% my-links %}}
