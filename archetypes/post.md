@@ -5,4 +5,7 @@ date: {{ .Date }}
 draft: true
 categories: ["Blog"]
 tags: []
+featureimage: "" # add external links as feature image
+showAuthor: true
+showTableOfContents: true
 ---

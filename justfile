@@ -27,18 +27,18 @@ simple-post:
     # create the folder
     mkdir -p "$post_path"
     # create the blog entry from a hugo remplate
-    hugo new  "$post_path/index.md"
+    hugo new --kind post "$post_path/index.md"
 
-# Create a new post to a collection
-collection-post:
+# Create a new post to a series
+series-post:
     #!/bin/bash
     #choose a collection where the post should be located
-    collection=$(gum choose "my_hugo_blog" "ricing" "obsidian" )
-    post_path=content/posts/"$collection"/$(date +"%Y-%m-%d")_$(gum input --placeholder 'Post Name')
+    series=$(gum choose "my_hugo_blog" "ricing" "obsidian" )
+    post_path=content/posts/"$series"/$(date +"%Y-%m-%d")_$(gum input --placeholder 'Post Name')
     # replace whitespaces with dash
     post_path=$(echo "$post_path" | tr ' ' '-')
     # create the folder
     mkdir -p "$post_path"
     # create the blog entry from a hugo remplate
-    hugo new  "$post_path/index.md"
+    hugo new --kind series-post "$post_path/index.md"
 
