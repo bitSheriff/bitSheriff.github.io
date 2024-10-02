@@ -52,3 +52,9 @@ In the end, ricing is what makes Linux unique. It’s about taking control of yo
 Let me give you a little tip: Start small. Don't try to rice your desktop in one day. Take your time and enjoy the process. It's not about the destination, it's about the journey. Read a lot of documentation, other peoples dotfiles and try to understand what you are doing. This way you will learn a lot and have a lot of fun.
 
 So if you want, leave a comment and tell me about your ricing journey. I would love to hear about it.
+
+---
+
+## Links & Resources
+
+- [Feature Image](https://reddit.com/r/unixporn)
