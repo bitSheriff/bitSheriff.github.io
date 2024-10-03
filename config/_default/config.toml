@@ -33,8 +33,6 @@ enableEmoji = true
   name = "bitSheriff"
   email = "bitSheriff@protonmail.com"
 
-
-
 [markup]
   [markup.highlight]
     anchorLineNos = false
