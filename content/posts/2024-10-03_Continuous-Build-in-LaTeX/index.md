@@ -2,7 +2,7 @@
 title: "Continuous Build in LaTeX"
 summary: "Run LaTeX more like a WYSIWYG editor"
 date: 2024-10-03T13:57:22+02:00
-draft: true
+draft: false
 categories: ["Blog"]
 tags: ["linux", "LaTeX"]
 featureimage: "" # add external links as feature image
