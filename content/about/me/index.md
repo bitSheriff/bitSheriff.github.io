@@ -9,9 +9,6 @@ showLikes: false
 showViews: false
 showComments: false
 showShare: false
-_build:
-  render: "false"
-  list: "local"
 ---
 
 ## That's me

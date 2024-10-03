@@ -1,3 +1,3 @@
 its a bit boring here.....
 
-better visit my [devLog](https://bitsheriff.github.io)
+better visit my [devLog](https://bitsheriff.dev)
