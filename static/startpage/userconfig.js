@@ -35,7 +35,7 @@ const default_config = {
           links: [
             {
               name: "tuta",
-              url: "https://tuta.com",
+              url: "https://app.tuta.com",
               icon: "mail",
               icon_color: palette.red,
             },
