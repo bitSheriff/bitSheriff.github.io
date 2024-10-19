@@ -246,6 +246,34 @@ const default_config = {
         },
       ],
     },
+    {
+      name: "learn",
+      background_url: "src/img/banners/calc.webp",
+      categories: [
+        {
+          name: "languages",
+          links: [
+            {
+              name: "babbel",
+              url: "https://babbel.com/",
+              icon: "flag",
+              icon_color: palette.peach,
+            },
+          ],
+        },
+        {
+          name: "coding",
+          links: [
+            {
+              name: "udemy",
+              url: "https://udemy.com",
+              icon: "underline",
+              icon_color: palette.sapphire,
+            },
+          ],
+        },
+      ],
+    },
   ],
 };
 
