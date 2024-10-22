@@ -173,6 +173,12 @@ const default_config = {
               icon: "keyframes",
               icon_color: palette.maroon,
             },
+            {
+              name: "terminal trove",
+              url: "https://terminaltrove.com",
+              icon: "terminal-2",
+              icon_color: palette.teal,
+            },
           ],
         },
       ],
