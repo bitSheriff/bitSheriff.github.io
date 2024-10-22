@@ -33,7 +33,7 @@ simple-post:
 series-post:
     #!/bin/bash
     #choose a collection where the post should be located
-    series=$(gum choose "my_hugo_blog" "ricing" "obsidian" )
+    series=$(gum choose "my_hugo_blog" "ricing" "note-making" )
     post_path=content/posts/"$series"/$(date +"%Y-%m-%d")_$(gum input --placeholder 'Post Name')
     # replace whitespaces with dash
     post_path=$(echo "$post_path" | tr ' ' '-')
