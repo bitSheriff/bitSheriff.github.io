@@ -1,5 +1,5 @@
 ---
-title: "2024 10 22_What Is Note Making"
+title: "What Is Note Making"
 summary: "Note-Taking and the Difference to Note-Taking"
 date: 2024-10-22T13:09:47+02:00
 draft: true
