@@ -9,6 +9,7 @@ showLikes: false
 showViews: false
 showComments: false
 showShare: false
+weight: 100
 ---
 
 ## That's me
