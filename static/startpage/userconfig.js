@@ -28,6 +28,12 @@ const default_config = {
               icon: "book",
               icon_color: palette.green,
             },
+            {
+              name: "cashew",
+              url: "https://budget-track.web.app",
+              icon: "cash",
+              icon_color: palette.yellow,
+            },
           ],
         },
         {
