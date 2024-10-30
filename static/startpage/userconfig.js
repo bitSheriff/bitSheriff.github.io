@@ -23,8 +23,8 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "omnivore",
-              url: "https://omnivore.app",
+              name: "readwise reader",
+              url: "https://read.readwise.io/",
               icon: "book",
               icon_color: palette.green,
             },
