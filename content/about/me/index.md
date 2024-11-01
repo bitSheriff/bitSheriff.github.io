@@ -73,8 +73,4 @@ Z/erpVJ5Pc2ZRpURzGE5
 
 ### More Links
 
-Of course I am not only on this blog. I am also on other platforms. Here are some links to my profiles on other platforms:
-
-<!--  include my link collection from separate file  -->
-
-{{% my-links %}}
+Of course I am not only on this blog. I am also on other platforms. Here are some links to my profiles on other platforms: [My Links](/links)
