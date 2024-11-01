@@ -73,4 +73,6 @@ Z/erpVJ5Pc2ZRpURzGE5
 
 ### More Links
 
-Of course I am not only on this blog. I am also on other platforms. Here are some links to my profiles on other platforms: [My Links](/links)
+Of course I am not only on this blog. I am also on other platforms. Here are some links to my profiles on other platforms: [🔗](/links)
+
+<iframe src="/links" width="100%" height="900"></iframe>
