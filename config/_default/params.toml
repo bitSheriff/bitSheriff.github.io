@@ -73,12 +73,31 @@ mainSections = ["posts"]
   cardView = true
   cardViewScreenWidth = false
 
+
 [sitemap]
-  excludedKinds = []
+  excludedKinds = ["taxonomy", "term"]
 
+[taxonomy]
+  showTermCount = true
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = false
 
-[pagination]
-  pagerSize = 20
+[term]
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+
 
 [firebase]
   # apiKey = "XXXXXX"

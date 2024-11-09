@@ -15,6 +15,9 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[pagination]
+  pagerSize = 100
+
 [taxonomies]
   tag = "tags"
   category = "categories"
