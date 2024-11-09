@@ -97,6 +97,7 @@ mainSections = ["posts"]
   # bing = ""
   # pinterest = ""
   # yandex = ""
+  fediverse = "https://mastodon.social/@bitSheriff"
 
 [author]
   name = "bitSheriff"
@@ -110,3 +111,5 @@ mainSections = ["posts"]
      { comment = "https://matrix.to/#/@bitSheriff:matrix.org" },
      { envelope = "mailto:root@bitsheriff.dev"}
    ]
+  fediverse_creator = "@bitSheriff@mastodon.social"
+
