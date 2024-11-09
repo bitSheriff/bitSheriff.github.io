@@ -76,8 +76,9 @@ mainSections = ["posts"]
 [sitemap]
   excludedKinds = []
 
-[taxonomy]
-  showTermCount = true
+
+#[pagination]
+#  pagerSize = 20
 
 [firebase]
   # apiKey = "XXXXXX"
