@@ -29,10 +29,6 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[author]
-  name = "bitSheriff"
-  email = "bitSheriff@protonmail.com"
-
 [markup]
   [markup.highlight]
     anchorLineNos = false
