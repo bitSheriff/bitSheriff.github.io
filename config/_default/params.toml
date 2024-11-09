@@ -40,7 +40,7 @@ mainSections = ["posts"]
   showDate = true
   #showViews = true
   #showLikes = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background
@@ -48,7 +48,7 @@ mainSections = ["posts"]
   showDraftLabel = true
   showEdit = false
   editAppendPath = true
-  seriesOpened = false
+  seriesOpened = true           # show series in a opened state (top of article
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
@@ -77,8 +77,8 @@ mainSections = ["posts"]
   excludedKinds = []
 
 
-#[pagination]
-#  pagerSize = 20
+[pagination]
+  pagerSize = 20
 
 [firebase]
   # apiKey = "XXXXXX"
