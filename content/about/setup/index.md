@@ -65,7 +65,7 @@ This icon symbolizes that the software is open-source. Personally, I would alway
 
 - 📱 **Mobile Devices**
   - Nothing Phone 2
-  - iPad Pro
+  - iPad Pro 12.9-inch, 4th generation
 - 💻 **Laptop**
   - [Framework 13](https://frame.work), 2023
     - AMD Ryzen 7040
