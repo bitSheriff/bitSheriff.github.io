@@ -71,7 +71,7 @@ const default_config = {
             {
               name: "bluesky",
               url: "https://bsky.app/",
-              icon: "brand-bluesky",
+              icon: "butterfly",
               icon_color: palette.blue,
             },
             {
