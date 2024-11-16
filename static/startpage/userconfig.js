@@ -69,10 +69,16 @@ const default_config = {
           name: "media",
           links: [
             {
+              name: "bluesky",
+              url: "https://bsky.app/",
+              icon: "brand-bluesky",
+              icon_color: palette.blue,
+            },
+            {
               name: "mastodon",
               url: "https://mastodon.social",
               icon: "brand-mastodon",
-              icon_color: palette.blue,
+              icon_color: palette.teal,
             },
             {
               name: "reddit",
