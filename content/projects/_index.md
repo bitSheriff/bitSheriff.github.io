@@ -9,6 +9,7 @@ cascade:
 
 {{< lead >}}
 Mostly hobbyist projects :computer:
+Not all projects are listed here, for more visit my [GitHub](https://github.com/bitSheriff)
 {{< /lead >}}
 
 ---
