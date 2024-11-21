@@ -4,6 +4,7 @@
     src: url('/fonts/font.ttf');
 }
 
+/* Change font and font size */
 html {
     font-family: font;
     font-size: 13pt;
