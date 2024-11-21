@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: font;
+    src: url('/fonts/font.ttf');
+}
+
+html {
+    font-family: font;
+    font-size: 13pt;
+}
