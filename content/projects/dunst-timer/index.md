@@ -3,7 +3,7 @@
 
 title: "dunst-timer"
 date: 2024-11-20
-summary: "Simple timer as a Dunst notification"
+summary: "Simple timer with dunst notifications"
 showReadingTime: true
 showLikes: false
 showViews: false
