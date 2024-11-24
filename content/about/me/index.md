@@ -18,6 +18,18 @@ I am Benjamin, known online as `bitSheriff`. I have a passion for writing code a
 
 Currently I am working as a Senior Embedded Software Developer for a big company which is in the cyber-physical industry and besides that I am also a student at the Vienna University of Technology where I study Computer Engineering. So sadly I don't have that much time to work on my own projects but in my option it is important to keep learning on your own and to work on your own projects. Further I love to read someone else's blog, devLogs and journeys so I decided to give something back to the community and write my own blog.
 
+I don't have a *"portfolio"* or something like that but you can take a look at my [projects poage](/projects) where **some** of my projects are listed.
+
+### My Interests
+
+- **Embedded Systems**: I love the symbiosis of hardware and software.
+- **Open Source**: I am a big fan of open source software and try to contribute to the community whenever possible.
+- **Linux**: Since 2016 I am using Linux as my daily driver and I am a big fan of the Arch Linux ecosystem (I will never go back...)
+- **Privacy**: I am a big supporter of privacy and try to keep my digital footprint as small as possible, while still being active on the internet. *Sharing only what I want to, not what copeorations want me to share.*
+- **Minimalism**: I am a wannabe-minimalist and try to keep my life as simple as possible. *But I fail every time (look at my Obsidian for example)*
+
+For more details to the stuff I use and like, take a look at my [setup page](/about/setup).
+
 ### Proof that I am Me
 
 The world wide web is a dangerous place where everyone can be anonyms but also pretend to be someone else. So here is a little proof that I am me.
@@ -75,4 +87,4 @@ Z/erpVJ5Pc2ZRpURzGE5
 
 Of course I am not only on this blog. I am also on other platforms. Here are some links to my profiles on other platforms: [🔗](/links)
 
-<iframe src="/links" width="100%" height="900"></iframe>
+<iframe src="/links" width="100%" height="1000"></iframe>
