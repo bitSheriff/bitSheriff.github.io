@@ -14,9 +14,9 @@ weight: 100
 
 ## That's me
 
-I am Benjamin, online I go by `bitSheriff`. I am a senior embedded software developer and I love to write code. I am also a big fan of open source software and I try to contribute to the community as much as I can.
+I am Benjamin, known online as `bitSheriff`. I have a passion for writing code and am an avid supporter of open source software. I strive to contribute to the community whenever possible. In addition to my professional work, I enjoy learning new technologies and sharing my knowledge through blogging and other platforms.
 
-Currently I am working as a Senior Embedded Software Developer and besides that I am also a student at the Vienna University of Technology where I study Computer Engineering. So sadly I don't have that much time to work on my own projects but in my option it is important to keep learning on your own and to work on your own projects. Further I love to read someone else's blog, devLogs and journeys so I decided to give something back to the community and write my own blog.
+Currently I am working as a Senior Embedded Software Developer for a big company which is in the cyber-physical industry and besides that I am also a student at the Vienna University of Technology where I study Computer Engineering. So sadly I don't have that much time to work on my own projects but in my option it is important to keep learning on your own and to work on your own projects. Further I love to read someone else's blog, devLogs and journeys so I decided to give something back to the community and write my own blog.
 
 ### Proof that I am Me
 
