@@ -25,6 +25,7 @@ I don't have a *"portfolio"* or something like that but you can take a look at m
 - **Embedded Systems**: I love the symbiosis of hardware and software.
 - **Open Source**: I am a big fan of open source software and try to contribute to the community whenever possible.
 - **Linux**: Since 2016 I am using Linux as my daily driver and I am a big fan of the Arch Linux ecosystem (I will never go back...)
+- **Dependable Systems**: I am interested in building systems that are dependable and reliable (where a failure is not an option)
 - **Privacy**: I am a big supporter of privacy and try to keep my digital footprint as small as possible, while still being active on the internet. *Sharing only what I want to, not what copeorations want me to share.*
 - **Minimalism**: I am a wannabe-minimalist and try to keep my life as simple as possible. *But I fail every time (look at my Obsidian for example)*
 
