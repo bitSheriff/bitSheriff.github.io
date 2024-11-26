@@ -38,6 +38,8 @@ Need more color in your life?
 
 (see [Configuration](#configuration) how this is done)
 
+---
+
 ```bash
 python dunst-timer.py -d 10m -t "A 10 minute timer 💼 "
 ```
