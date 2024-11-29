@@ -35,6 +35,8 @@ This icon symbolizes that the software is open-source. Personally, I would alway
   - {{< icon "code" >}} [EndeavorOS](https://endeavouros.com/), {{< icon "code" >}} [Hyprland](https://hyprland.org/)
 - 📝 **Notes**
   - [Obsidian](https://obsidian.md/)
+- ✍️ **Focus Writing**
+  - [Typora](https://typora.io)
 - 🧑‍💻 **Development Tools**
   - {{< icon "code" >}} [Neovim](github.com/neovim/neovim)
   - {{< icon "code" >}} [kitty](https://github.com/kovidgoyal/kitty)
@@ -47,8 +49,6 @@ This icon symbolizes that the software is open-source. Personally, I would alway
   - {{< icon "code" >}} [Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban)
 - 💶 **Finance Tracking**
   - {{< icon "code" >}} [Cashew](https://github.com/jameskokoska/Cashew)
-- ✍️ **Journaling**
-  - [Obsidian](obsidian.md)
 - 🗨️ **Communication**
   - {{< icon "code" >}} [Matrix](https://matrix.org/), {{< icon "code" >}} [Element(X)](https://element.io/)
   - {{< icon "code" >}} [Signal](https://signal.org/)
@@ -71,13 +71,15 @@ This icon symbolizes that the software is open-source. Personally, I would alway
     - AMD Ryzen 7040
     - 32 GB DDR4 RAM
 - 🖥️ **Workstation**
-  - .
+  - AMD Ryzen 7 7800X3D
+  - 32 GB DDR4 RAM
+  - NVIDIA GeForce RTX 4080
 - ⌨️ **Keyboards**
   - [ZSA Voyager](https://www.zsa.io/voyager) (brown switches)
   - [Logitech MX Mechanical Mini](https://www.logitech.com/en-us/products/keyboards/mx-mechanical-mini.html) (brown switches)
 - 🎧 **Every Day Carry**
   - Sony WH-1000XM4
   - Jabra Elite 85t
-- 🎒 **Sometimes Carry**
+- 🎒 **"Sometimes Carry"**
   - Mobile Monitor
   - [Boox Page](https://shop.boox.com/products/page)
