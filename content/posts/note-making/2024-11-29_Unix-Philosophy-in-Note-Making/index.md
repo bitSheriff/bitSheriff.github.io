@@ -17,6 +17,9 @@ A few days ago, I saw posts on Bluesky discussing methodologies about productivi
 
 > "If you want your writings to still be readable on a computer from the 2060s or 2160, it's important that you notes can be read on a computer from the 1960s" - Steph Ango[^file-over-app]
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:4pklmqyj4mew3wftz7edg4fy/app.bsky.feed.post/3lbudwadkyc2q" data-bluesky-cid="bafyreiapwieiwprxd4o674ycq4yam3dx3vsx3yrzfl24jih67tekxvfxfy"><p lang="en">File over app · 2023 
+stephango.com/file-over-app<br><br><a href="https://bsky.app/profile/did:plc:4pklmqyj4mew3wftz7edg4fy/post/3lbudwadkyc2q?ref_src=embed">[image or embed]</a></p>&mdash; kepano (<a href="https://bsky.app/profile/did:plc:4pklmqyj4mew3wftz7edg4fy?ref_src=embed">@stephango.com</a>) <a href="https://bsky.app/profile/did:plc:4pklmqyj4mew3wftz7edg4fy/post/3lbudwadkyc2q?ref_src=embed">Nov 26, 2024 at 4:26 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 It made a great impression on me, because thinking about the lifespan on my notes was always a thought which was never really resolved. Until I met Obsidian.
 
 Before that, I have excessively used Evernote for private and work related stuff. Very quickly I got the positive effects of maintaining your own knowledge management: I was quicker to extract information than my colleagues. Well, they wrote most stuff done too, but the main point was the _how_. Dozens of _Yellow Sticky Notes_, multiple college notebooks and some documentation digital. I was there too, but in the end, it digitalized all my notes and made them searchable with OCR. But then? Evernote did not fit for me anymore. I was unsatisfied with the online web-app because I used Linux at home, it got more expensive with time and the management options inside the app where just too simple for me.
