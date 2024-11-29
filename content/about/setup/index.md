@@ -14,7 +14,7 @@ weight: 3
 ---
 
 {{< alert icon="edit" cardColor="#26118e" iconColor="#1d3557" iconColor="#f1faee" textColor="#f1faee" >}}
-Last Updated: 2024-10-27
+Last Updated: 2024-11-29
 {{< /alert >}}
 
 ## Intro
