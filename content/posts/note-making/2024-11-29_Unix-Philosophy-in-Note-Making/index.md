@@ -9,8 +9,8 @@ tags: []
 featureimage: "" # add external links as feature image
 showAuthor: true
 showTableOfContents: true
-series: ["Name of the Series"]
-series_order: 0
+series: ["Note Making"]
+series_order: 2
 ---
 
 A few days ago, I saw posts on Bluesky discussing methodologies about productivity apps. It got me thinking about a quote of Steph Ango, which I included for you:
