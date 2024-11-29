@@ -19,7 +19,7 @@ Last Updated: 2024-11-29
 
 ## Intro
 
-I am a _wannabe-minimalist_ with a gadget-addiction, so I am trying to keep my setups simple but fail every time. Well, there are some periods where I simplify it (mostly be giving stuff to friends and family), but this only motivates me to try new stuff. And to be honest, some of these items
+I am a _wannabe-minimalist_ with a gadget-addiction, so I am trying to keep my setups simple but fail every time. Well, there are some periods where I simplify it (mostly by giving stuff to friends and family), but this only motivates me to try new stuff. And to be honest, some of these items are really great and I would not want to miss them. So here is a list of my current setup.
 
 {{< alert >}}
 **Warning!** None of the following links are affiliate links. I do not get any money from them. I just like them.
