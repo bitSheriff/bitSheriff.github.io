@@ -12,6 +12,8 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
+defaultFeaturedImage = "img/devlog.png"
+
 mainSections = ["posts"]
 # robots = ""
 
