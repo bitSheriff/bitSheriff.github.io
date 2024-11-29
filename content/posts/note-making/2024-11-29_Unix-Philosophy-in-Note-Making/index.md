@@ -1,11 +1,11 @@
 ---
-title: "2024 11 29_Unix Philosophy in Note Making"
+title: "Unix Philosophy in Note Making"
 summary: "What is the Unix Philosophy and how does it fit in Note Making?"
 date: 2024-11-29T10:24:52+01:00
 lastmod: 2024-11-29T10:24:52+01:00
 draft: false
 categories: ["Blog"]
-tags: [notes, "braindump", "obsidian"]
+tags: [notes, "brain dump", "obsidian"]
 featureimage: "https://bitSheriff.dev/img/featureimages/brain-dump.jpg" # add external links as feature image
 showAuthor: true
 showTableOfContents: true
